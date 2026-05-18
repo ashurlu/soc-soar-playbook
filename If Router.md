@@ -3,7 +3,7 @@
 **Node Name:** If  
 **Node Type:** IF  
  
-<img width="1707" height="622" alt="image" src="https://github.com/user-attachments/assets/34c39c4b-1497-4925-933a-cafbe9e94b2c" />
+<img width="1707" height="622" alt="image" src="https://github.com/user-attachments/assets/6714d9e2-5484-4d5c-95da-93e875f875d1" />
 
 ## Inside 
 <img width="1866" height="798" alt="image" src="https://github.com/user-attachments/assets/8dea49c0-d2b2-46de-b0f9-fae4a9eb035b" />
