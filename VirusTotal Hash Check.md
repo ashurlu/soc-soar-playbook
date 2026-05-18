@@ -56,13 +56,16 @@ signal, and VirusTotal is a supporting enrichment layer.
 https://www.virustotal.com/api/v3/files/{{ $('Code in JavaScript').item.json.ransomware.file_hash_sha256 }}
 ```
 
-
+## Get your VirusTotal API KEY
+https://docs.virustotal.com/docs/please-give-me-an-api-key
 
 ## Headers
 
 | Name | Value |
 |------|-------|
 | x-apikey | YOUR_VIRUSTOTAL_API_KEY |
+<img width="1866" height="797" alt="image" src="https://github.com/user-attachments/assets/1f88416f-cd1d-43ad-b833-7b0d520a422f" />
+
 
 > ⚠️ Replace YOUR_VIRUSTOTAL_API_KEY with your real key.
 > Header name must be exactly x-apikey — all lowercase, no spaces, no quotes.
